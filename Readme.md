@@ -2,11 +2,7 @@
 
 ## Goal of the competition
 
-Our work will improve researchers' ability to analyze accelerometer data for sleep monitoring and enable them to conduct large-scale 
-studies of sleep. Ultimately, the work of this competition could improve awareness and guidance surrounding the importance of sleep. The 
-valuable insights into how environmental factors impact sleep, mood, and behavior can inform the development of personalized 
-interventions and support systems tailored to the unique needs of each child.
-
+Through our efforts, the Global Centre for Child and Adolescent Mental Health will enhance researchers' capacity to analyze accelerometer data for sleep tracking, facilitating extensive studies on sleep patterns. The outcomes of this initiative have the potential to heighten awareness and offer enhanced guidance on the significance of quality sleep. Moreover, a profound understanding of how external elements influence sleep, mood, and behavior will serve as a foundation for crafting personali
 ## Context
 The “Zzzs” you catch each night are crucial for your overall health. Sleep affects everything from your development to cognitive 
 functioning. Even so, research into sleep has proved challenging, due to the lack of naturalistic data capture alongside accurate 
